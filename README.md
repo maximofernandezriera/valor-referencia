@@ -25,6 +25,11 @@ Cuando llamamos a una función (o procedimiento), podemos pasarle argumentos (~=
 # Por valor
 
 ## En el paso por parámetros por valor lo que se la pasa a la función es el VALOR DEL ARGUMENTO.
-### En el paso por valor ninguna de las variables de la función definida en la parte derecha de la imagen tiene acceso a ninguna variable de las que están a la derecha de la imagen.
 
 ![Paso por valor](https://i.imgur.com/p52Mfj2.png)
+
+### Ojo: En el paso por valor ninguna de las variables de la función definida en la parte derecha de la imagen tiene acceso a ninguna variable de las que están a la derecha de la imagen.
+
+# Por referencia
+
+![¿Qué pasa en la memoria?](https://docs.google.com/presentation/d/1KzSXcWUTSumkybbLSoRjAFRlSVSPJyHXyh59A7knBws/edit?usp=sharing)
