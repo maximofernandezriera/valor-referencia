@@ -79,8 +79,6 @@ Cuando llamamos a una función (o procedimiento), podemos pasarle argumentos (~=
 
 Comprobamos que los parámetros pasados por valor no modifican a los argumentos.
 
-    num1 <- CalcularMaximo(5,6)
-
     Funcion PasoPorValor(num)
         num <- num +1
         Escribir num
