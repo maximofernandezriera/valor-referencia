@@ -30,7 +30,7 @@ Cuando llamamos a una función (o procedimiento), podemos pasarle argumentos (~=
 
 ![Paso por valor](https://i.imgur.com/p52Mfj2.png)
 
-### Ojo: En el paso por valor ninguna de las variables de la función definida en la parte derecha de la imagen tiene acceso a ninguna variable de las que están a la derecha de la imagen.
+### Ojo: En el paso por valor ninguna de las variables de la función definida en la parte derecha de la imagen tiene acceso a ninguna variable de las que están a la izquierda de la imagen.
 
 # Por referencia
 
