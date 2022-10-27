@@ -34,7 +34,7 @@ Cuando llamamos a una función (o procedimiento), podemos pasarle argumentos (~=
 
 # Por referencia
 
-[Memoria]([http://www.limni.net](https://docs.google.com/presentation/d/1KzSXcWUTSumkybbLSoRjAFRlSVSPJyHXyh59A7knBws/edit?usp=sharing))
+[Memoria](https://docs.google.com/presentation/d/1KzSXcWUTSumkybbLSoRjAFRlSVSPJyHXyh59A7knBws/edit?usp=sharing)
 
 # En el paso de parámetros por referencia lo que se le pasa a la función es la dirección de memoria donde está el argumento.
 
